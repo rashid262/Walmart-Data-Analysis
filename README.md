@@ -1,4 +1,4 @@
-# SQLProject
+# Walmart Sales Data Analysis Using SQL
 
 This project is focused on analyzing Walmart sales data obtained from the Kaggle Walmart Sales Forecasting Competition. The objective is to gain insights into the performance of different branches and products, understand sales trends for various product categories, and examine customer behavior. The ultimate goal is to identify opportunities for optimizing and improving sales strategies.
 
